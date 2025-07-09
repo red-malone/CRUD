@@ -1,0 +1,22 @@
+export const todos = [
+    { "id": 1, "title": "Buy groceries", "completed": false },
+    { "id": 2, "title": "Walk the dog", "completed": false },
+    { "id": 3, "title": "Read a book", "completed": false },
+    { "id": 4, "title": "Call mom", "completed": false },
+    { "id": 5, "title": "Finish homework", "completed": false },
+    { "id": 6, "title": "Clean the house", "completed": false },
+    { "id": 7, "title": "Pay bills", "completed": false },
+    { "id": 8, "title": "Exercise for 30 minutes", "completed": false },
+    { "id": 9, "title": "Water the plants", "completed": false },
+    { "id": 10, "title": "Reply to emails", "completed": false },
+    { "id": 11, "title": "Plan weekend trip", "completed": false },
+    { "id": 12, "title": "Organize desk", "completed": false },
+    { "id": 13, "title": "Cook dinner", "completed": false },
+    { "id": 14, "title": "Update resume", "completed": false },
+    { "id": 15, "title": "Schedule dentist appointment", "completed": false },
+    { "id": 16, "title": "Watch a movie", "completed": false },
+    { "id": 17, "title": "Meditate", "completed": false },
+    { "id": 18, "title": "Do laundry", "completed": false },
+    { "id": 19, "title": "Write journal", "completed": false },
+    { "id": 20, "title": "Learn a new skill", "completed": false }
+]
